@@ -1,0 +1,22 @@
+{
+  "name": "odoo-apijs",
+  "version": "1.0.0",
+  "description": "Odoo api for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gobadiah/odoo-apijs.git"
+  },
+  "keywords": [
+    "odoo"
+  ],
+  "author": "Michaël Journo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gobadiah/odoo-apijs/issues"
+  },
+  "homepage": "https://github.com/gobadiah/odoo-apijs#readme"
+}
